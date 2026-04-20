@@ -1,0 +1,25 @@
+
+
+.grid-table {
+    background-color: #e0e4e0;
+    border: 1px solid gray;
+}
+
+.grid-table thead tr {
+    background-color: black;
+    color: white;
+}
+
+.grid-table tbody tr:nth-child(odd) {
+    background-color:#84878c;
+    height: 20px;
+}
+
+table tbody tr:nth-child(even) {
+    background-color: #ffffff;
+    height: 20px;
+}
+
+.text-red {
+    color: red;
+}
